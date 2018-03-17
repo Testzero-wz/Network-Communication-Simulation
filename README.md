@@ -12,7 +12,7 @@ A GUI program that simulates network communication, base on Python Tk
 It's base on TCP/IP network model
 The difference  is that  in  this model I  added a physical layer, then it come to a 5 layers network communication model.
 
-![](https://github.com/WananpIG/Network-Communication-Simulation/blob/master/_image/13-57-40.jpg)
+![](https://github.com/WananpIG/Network-Communication-Simulation/tree/master/_image/README/13-57-40.jpg)
 
 ## Feature
 
@@ -24,10 +24,10 @@ The code can be run in python 2.7 environment.
 
 ##The program looks like this
 
-![](https://github.com/WananpIG/Network-Communication-Simulation/blob/master/_image/14-25-11.jpg)
+![](https://github.com/WananpIG/Network-Communication-Simulation/blob/master/_image/README/14-25-11.jpg)
 
 
-![](https://github.com/WananpIG/Network-Communication-Simulation/blob/master/_image/14-26-23.jpg)
+![](https://github.com/WananpIG/Network-Communication-Simulation/blob/master/_image/README/14-26-23.jpg)
 
 
 
